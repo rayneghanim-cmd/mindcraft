@@ -1,4 +1,9 @@
-<h1 align="center">🧠mindcraft⛏️</h1>
+(async (bot) => {
+
+/* CODE HERE */
+log(bot, 'Code finished.');
+
+})
 <h1 align="center">
   <a href="https://trendshift.io/repositories/14816" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14816" alt="mindcraft-bots%2Fmindcraft | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </h1>
